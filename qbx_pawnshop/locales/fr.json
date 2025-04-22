@@ -1,0 +1,29 @@
+{
+    "error": {
+        "negative": "Vous essayez de vendre une quantitée négative?",
+        "no_melt": "Vous ne m'avez rien donné à fondre...",
+        "no_items": "Pas assez d'objet"
+    },
+    "success": {
+        "sold": "Vous avez vendu %s x %s pour $%s",
+        "items_received": "Vous avez reçu %s x %s"
+    },
+    "info": {
+        "title": "Prêteur sur gage",
+        "subject": "Fondre des Objets",
+        "message": "Nous avons finis de fondre vos objets. Vous pouvez venir les récupérer à n'importe quel moment.",
+        "open_pawn": "Ouvrir le Prêteur sur gage",
+        "sell": "Vendre des objets",
+        "sell_pawn": "Vendre des objets au Prêteur sur gage",
+        "melt": "Fondre des Objets",
+        "melt_pawn": "Ouvrir la fonderie",
+        "melt_pickup": "Récupérer les objets fondus",
+        "pawn_closed": "Le prêteur sur gage est fermé. Revenez entre %s:00 du matin et %s:00 de l'après-midi",
+        "sell_items": "Prix de vente: $%s",
+        "back": "⬅ Aller en arrière",
+        "melt_item": "Fondre %s",
+        "max": "Quantitée Max. %s",
+        "submit": "Fondre",
+        "melt_wait": "Donnez-moi %s minutes et j'aurai fondu vos objets."
+    }
+}

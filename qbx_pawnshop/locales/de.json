@@ -1,0 +1,29 @@
+{
+    "error": {
+        "negative": "Versuchst du, eine negative Menge zu verkaufen?",
+        "no_melt": "Du hast mir nichts zum Schmelzen gegeben...",
+        "no_items": "Nicht genug Gegenstände"
+    },
+    "success": {
+        "sold": "Du hast %s x %s für $%s verkauft",
+        "items_received": "Du hast %s x %s erhalten"
+    },
+    "info": {
+        "title": "Pfandhaus",
+        "subject": "Gegenstände schmelzen",
+        "message": "Wir haben das Schmelzen deiner Gegenstände abgeschlossen. Du kannst sie jederzeit abholen.",
+        "open_pawn": "Pfandhaus öffnen",
+        "sell": "Gegenstände verkaufen",
+        "sell_pawn": "Gegenstände an das Pfandhaus verkaufen",
+        "melt": "Gegenstände schmelzen",
+        "melt_pawn": "Schmelz-Shop öffnen",
+        "melt_pickup": "Geschmolzene Gegenstände abholen",
+        "pawn_closed": "Das Pfandhaus ist geschlossen. Komm zwischen %s:00 Uhr und %s:00 Uhr wieder.",
+        "sell_items": "Verkaufspreis $%s",
+        "back": "⬅ Zurück",
+        "melt_item": "%s schmelzen",
+        "max": "Maximale Menge %s",
+        "submit": "Schmelzen",
+        "melt_wait": "Gib mir %s Minuten, und ich habe deine Sachen geschmolzen"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "error": {
+        "negative": "Trying to sell a negative amount?",
+        "no_melt": "You didn't give me anything to melt...",
+        "no_items": "Not enough items"
+    },
+    "success": {
+        "sold": "You have sold %s x %s for $%s",
+        "items_received": "You received %s x %s"
+    },
+    "info": {
+        "title": "Pawn Shop",
+        "subject": "Melting Items",
+        "message": "We finished melting your items. You can come pick them up at any time.",
+        "open_pawn": "Open the Pawn Shop",
+        "sell": "Sell Items",
+        "sell_pawn": "Sell Items To The Pawn Shop",
+        "melt": "Melt Items",
+        "melt_pawn": "Open the Melting Shop",
+        "melt_pickup": "Pickup Melted Items",
+        "pawn_closed": "Pawnshop is closed. Come back between %s:00 AM - %s:00 PM",
+        "sell_items": "Selling Price $%s",
+        "back": "⬅ Go Back",
+        "melt_item": "Melt %s",
+        "max": "Max Amount %s",
+        "submit": "Melt",
+        "melt_wait": "Give me %s minutes and I'll have your stuff melted"
+    }
+}

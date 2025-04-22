@@ -1,0 +1,29 @@
+{
+  "error": {
+    "negative": "Negatif miktarda satış mı deniyorsun?",
+    "no_melt": "Eritmem için bana hiçbir şey vermedin...",
+    "no_items": "Yeterli eşya yok"
+  },
+  "success": {
+    "sold": "%s adet %s'yi $%s karşılığında sattın",
+    "items_received": "%s adet %s aldın"
+  },
+  "info": {
+    "title": "Rehin Dükkanı",
+    "subject": "Eşyaların Eritilmesi",
+    "message": "Eşyalarını eritme işlemini tamamladık. İstediğin zaman gelip alabilirsin.",
+    "open_pawn": "Rehin Dükkanını Aç",
+    "sell": "Eşyaları Sat",
+    "sell_pawn": "Eşyaları Rehin Dükkanına Sat",
+    "melt": "Eşyaları Erit",
+    "melt_pawn": "Eritme Dükkanını Aç",
+    "melt_pickup": "Eritilen Eşyaları Al",
+    "pawn_closed": "Rehin dükkanı kapalı. %s:00 AM - %s:00 PM arasında tekrar gel.",
+    "sell_items": "Satış Fiyatı $%s",
+    "back": "⬅ Geri Dön",
+    "melt_item": "%s'i Erit",
+    "max": "Maksimum Miktar %s",
+    "submit": "Erit",
+    "melt_wait": "Bana %s dakika ver ve eşyalarını eriteyim"
+  }
+}

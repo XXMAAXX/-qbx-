@@ -1,0 +1,29 @@
+{
+    "error": {
+        "negative": "Yritätkö myydä virheellistä määrää meille?",
+        "no_melt": "Sinulla ei ole mitään annettavaa minulle...",
+        "no_items": "Ei tarpeaski itemeitä"
+    },
+    "success": {
+        "sold": "Sinä sait myytyä %s x %s hintaan $%s",
+        "items_received": "Sinä sait %s x %s"
+    },
+    "info": {
+        "title": "Panttilainaamo",
+        "subject": "Sulata tavaroita",
+        "message": "Olemme saaneet esineesi sulatuksen valmiiksi. Voit tulla noutamaan niitä milloin tahansa.",
+        "open_pawn": "Avaa panttilainaamo",
+        "sell": "Myy tavaraa",
+        "sell_pawn": "Myy itemeitä panttilainaamolle",
+        "melt": "Sulatetut itemit",
+        "melt_pawn": "Avaa sulatuksen valikko",
+        "melt_pickup": "Ota vastaan sulatetut itemit",
+        "pawn_closed": "Panttilainaamo on suljettu. Tule takaisin %s:00 AM - %s:00 PM",
+        "sell_items": "Myyntihinta $%s",
+        "back": "⬅ Mene takaisin",
+        "melt_item": "Sulatus %s",
+        "max": "Maxsimi määrä %s",
+        "submit": "Sulata",
+        "melt_wait": "Anna minulle %s minuttia aikaa, Sitten tavarasi on sulatettu"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "error": {
+        "negative": "Has intentado vender una cantidad negativa",
+        "no_melt": "No hay nada en la fundición...",
+        "no_items": "No tienes suficiente cantidad"
+    },
+    "success": {
+        "sold": "Has vendido %s x %s por $%s",
+        "items_received": "Has recibido %s x %s"
+    },
+    "info": {
+        "title": "Casa de Empeños",
+        "subject": "Artículos para fundir",
+        "message": "Hemos terminado de fundir sus productos. Puede venir a recogerlos cuando quiera.",
+        "open_pawn": "Abre la casa de empeños",
+        "sell": "Vender artículos",
+        "sell_pawn": "Vender artículos a la casa de empeños",
+        "melt": "Fundir productos",
+        "melt_pawn": "Abre la fundición",
+        "melt_pickup": "Recoger producto fundido",
+        "pawn_closed": "La casa de empeños está cerrada. Vuelve entre las %s:00 AM y las %s:00 PM",
+        "sell_items": "Precio de venta $%s",
+        "back": "⬅ Volver",
+        "melt_item": "Fundir %s",
+        "max": "Cantidad máxima %s",
+        "submit": "Fundir",
+        "melt_wait": "Dame %s minutos y fundiré tus productos"
+    }
+}

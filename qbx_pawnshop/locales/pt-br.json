@@ -1,0 +1,29 @@
+{
+    "error": {
+        "negative": "Tentando vender uma quantidade negativa?",
+        "no_melt": "Você não me deu nada para fundir...",
+        "no_items": "Itens insuficientes"
+    },
+    "success": {
+        "sold": "Você vendeu %s x %s por $%s",
+        "items_received": "Você recebeu %s x %s"
+    },
+    "info": {
+        "title": "Casa de Penhor",
+        "subject": "Fundindo Itens",
+        "message": "Terminamos de fundir seus itens. Você pode vir buscá-los a qualquer momento.",
+        "open_pawn": "Abrir a Casa de Penhor",
+        "sell": "Vender Itens",
+        "sell_pawn": "Vender Itens para a Casa de Penhor",
+        "melt": "fundir Itens",
+        "melt_pawn": "Abrir a Loja de Derretimento",
+        "melt_pickup": "Retirar Itens Derretidos",
+        "pawn_closed": "A casa de penhor está fechada. Volte entre %s:00 AM - %s:00 PM",
+        "sell_items": "Preço de Venda $%s",
+        "back": "⬅ Voltar",
+        "melt_item": "fundir %s",
+        "max": "Quantidade Máxima %s",
+        "submit": "fundir",
+        "melt_wait": "Me dê %s minutos e eu fundo suas coisas"
+    }
+}

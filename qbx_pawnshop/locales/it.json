@@ -1,0 +1,29 @@
+{
+    "error": {
+        "negative": "Cerchi di vendere una cifra negativa?",
+        "no_melt": "Non mi hai dato niente da sciogliere...",
+        "no_items": "Articoli non sufficienti"
+    },
+    "success": {
+        "sold": "Hai venduto %s x %s per $%s",
+        "items_received": "Hai ricevuto %s x %s"
+    },
+    "info": {
+        "title": "Banco dei pegni",
+        "subject": "Fonderia",
+        "message": "Abbiamo finito di fondere i tuoi articoli. Puoi venire a prenderli in qualsiasi momento.",
+        "open_pawn": "Apri il negozio dei pegni",
+        "sell": "Vendi oggetti",
+        "sell_pawn": "Vendi articoli al negozio dei pegni",
+        "melt": "Fondi articoli",
+        "melt_pawn": "Apri la fonderia",
+        "melt_pickup": "Prendi oggetti fusi",
+        "pawn_closed": "Il banco dei pegni è chiuso. Torna tra le %s:00 AM - %s:00 PM",
+        "sell_items": "Prezzo di vendita $%s",
+        "back": "⬅ Indietro",
+        "melt_item": "Fondi %s",
+        "max": "Quantità massima %s",
+        "submit": "Fondi",
+        "melt_wait": "Dammi %s minuti e farò sciogliere la tua roba"
+    }
+}

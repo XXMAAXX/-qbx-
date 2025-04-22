@@ -1,0 +1,56 @@
+{
+  "error": {
+    "no_people_nearby": "No players nearby.",
+    "no_vehicle_nearby": "No vehicle nearby to flip.",
+    "no_vehicle_found": "No vehicle found.",
+    "extra_deactivated": "Extra %s has been deactivated.",
+    "extra_not_present": "Extra %s is not present on this vehicle.",
+    "not_driver": "You are not the driver of the vehicle.",
+    "vehicle_driving_fast": "This vehicle is going too fast.",
+    "seat_occupied": "This seat is occupied.",
+    "race_harness_on": "You have a racing harness. You cannot switch.",
+    "obj_not_found": "Unable to create the requested object.",
+    "not_near_ambulance": "You are not near an ambulance.",
+    "far_away": "You are too far away.",
+    "not_kidnapped": "You have not kidnapped this person.",
+    "trunk_closed": "The trunk is closed.",
+    "cant_enter_trunk": "You cannot enter this trunk.",
+    "already_in_trunk": "You are already in the trunk.",
+    "someone_in_trunk": "Someone is already in the trunk.",
+    "cancel_task": "Cancelled"
+  },
+  "progress": {
+    "flipping_car": "Flipping the vehicle..."
+  },
+  "success": {
+    "extra_activated": "Extra %s has been activated.",
+    "entered_trunk": "You are in the trunk."
+  },
+  "info": {
+    "no_variants": "There don't seem to be any variants for this.",
+    "wrong_ped": "This ped model does not allow this option.",
+    "nothing_to_remove": "You have nothing to remove.",
+    "already_wearing": "You are already wearing it.",
+    "switched_seats": "You are now in the %s."
+  },
+  "general": {
+    "command_description": "Open the Radial Menu",
+    "get_out_trunk_button": "[E] Exit Trunk",
+    "close_trunk_button": "[G] Close Trunk",
+    "open_trunk_button": "[G] Open Trunk",
+    "getintrunk_command_desc": "Enter the Trunk",
+    "putintrunk_command_desc": "Put the Player in the Trunk",
+    "gang_radial": "Gang",
+    "job_radial": "Job"
+  },
+  "options": {
+    "flip": "Flip the Vehicle",
+    "vehicle": "Vehicle",
+    "emergency_button": "Emergency Button",
+    "driver_seat": "Driver Seat",
+    "passenger_seat": "Passenger Seat",
+    "other_seats": "Other Seat",
+    "rear_left_seat": "Rear Left Seat",
+    "rear_right_seat": "Rear Right Seat"
+  }
+}

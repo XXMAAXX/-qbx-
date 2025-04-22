@@ -1,0 +1,29 @@
+{
+    "error": {
+        "negative": "Du försöker sälja ett negativt antal?",
+        "no_melt": "Du gav mig inget att smälta ner...",
+        "no_items": "Du har inte tillräckligt med prylar"
+    },
+    "success": {
+        "sold": "Du har sålt %s x %s för $%s",
+        "items_received": "Du har tagit emot %s x %s"
+    },
+    "info": {
+        "title": "Pantbank",
+        "subject": "Smälter föremål",
+        "message": "Vi är klar med att smälta ner dina föremål. Du kan komma och hämta upp dom när du har möjlighet.",
+        "open_pawn": "Öppna Pantbanken",
+        "sell": "Sälj saker",
+        "sell_pawn": "Sälj saker till Pantbanken",
+        "melt": "Smält föremål",
+        "melt_pawn": "Öppna Smältbutiken",
+        "melt_pickup": "Hämta upp nedsmälta föremål",
+        "pawn_closed": "Pantbanken är stängd. Kom tillbaka mellan %s:00 - %s:00",
+        "sell_items": "Försäljningspris $%s",
+        "back": "⬅ Gå tillbaka",
+        "melt_item": "Smält %s",
+        "max": "Max antal %s",
+        "submit": "Smält",
+        "melt_wait": "Ge mig %s minuter så hinner jag smälta ner dina prylar"
+    }
+}

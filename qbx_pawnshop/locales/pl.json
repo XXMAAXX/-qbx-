@@ -1,0 +1,29 @@
+{
+  "error": {
+    "negative": "Próba sprzedaży ujemnej ilości?",
+    "no_melt": "Nie przekazano nic do przetopienia...",
+    "no_items": "Niewystarczająca liczba przedmiotów"
+  },
+  "success": {
+    "sold": "Sprzedano %s x %s za $%s",
+    "items_received": "Otrzymano %s x %s"
+  },
+  "info": {
+    "title": "Lombard",
+    "subject": "Przetapianie przedmiotów",
+    "message": "Zakończono przetapianie przedmiotów. Można je odebrać w dowolnym momencie.",
+    "open_pawn": "Otwórz lombard",
+    "sell": "Sprzedaj przedmioty",
+    "sell_pawn": "Sprzedaj przedmioty w lombardzie",
+    "melt": "Przetop przedmioty",
+    "melt_pawn": "Otwórz sklep do przetapiania",
+    "melt_pickup": "Odbierz przetopione przedmioty",
+    "pawn_closed": "Lombard jest zamknięty. Proszę wrócić między %s:00 a %s:00",
+    "sell_items": "Cena sprzedaży $%s",
+    "back": "⬅ Wróć",
+    "melt_item": "Przetop %s",
+    "max": "Maksymalna ilość %s",
+    "submit": "Przetop",
+    "melt_wait": "Daj mi %s minut, a przetopię Twoje przedmioty"
+  }
+}
